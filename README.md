@@ -1,5 +1,3 @@
-<details>
-	<summary style="margin-bottom: 15px;">📈 My GitHub Stats</summary>
-	<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexlogvin&bg_color=30,e96443,904e95&title_color=fff&text_color=eee&icon_color=eee&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&hide_rank=true&disable_animations=true"/></p>
-	<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexlogvin&bg_color=30,e96443,904e95&title_color=fff&text_color=eee&icon_color=eee&hide_border=true"/></p>
-</details>
+Full stack software engineer, knowing multiple languages and technologies. Usually I work with C# .NET.
+
+You can contact me on [LinkedIn](https://www.linkedin.com/in/alexlogvin/) for job offers, and on [Telegram](https://t.me/alex_logvin) for anything else.
